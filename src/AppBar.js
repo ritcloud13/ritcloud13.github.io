@@ -19,11 +19,11 @@ const drawerWidth = 240;
 const navItems = [
   {
     'name': 'Home',
-    'link': '/#/'
+    'link': 'team-website/#/'
   },
   {
     'name': 'Artifacts',
-    'link': '/#/artifacts'
+    'link': 'team-website/#/artifacts'
   }
 ];
 
