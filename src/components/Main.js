@@ -63,8 +63,8 @@ function Main() {
         </Grid>
         <Grid item xs={12} sm={6} md={4} >
           <PersonCard name="Kenn Martinez" role="Faculty Coach"
-            linkedin="https://www.linkedin.com/in/saranyadadi/"
-            email="mailto:sd1259@rit.edu" />
+            linkedin="https://www.linkedin.com/in/kennmartinez/"
+            email="mailto:kbmvse@rit.edu" />
         </Grid>
       </Grid>
       <Typography variant="h4" gutterBottom>
